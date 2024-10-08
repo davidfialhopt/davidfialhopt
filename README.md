@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm David from Portugal, currently pursuing a Computer Science degree at UÉ. In addition, I'm taking Harvard University's CS50X course to deepen my understanding of CS fundamentals. I'm also considering contributing to open-source projects to gain hands-on experience and further enhance my skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidfialhopt)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
