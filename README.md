@@ -1,4 +1,4 @@
-### Hi there 👋, David Fialho
+### Hi there 👋
 #### Developer
 I'm David from Portugal, currently pursuing a Computer Science degree at UÉ. In addition, I'm taking Harvard University's CS50X course to deepen my understanding of CS fundamentals. I'm also considering contributing to open-source projects to gain hands-on experience and further enhance my skills. 
 
